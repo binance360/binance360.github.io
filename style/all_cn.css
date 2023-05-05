@@ -54,8 +54,8 @@ ul {list-style: none}
 table {font-size: 12px}
 .table > thead > tr > th,.table > tbody > tr > th,.table > tfoot > tr > th,.table > thead > tr > td,.table > tbody > tr > td,.table > tfoot > tr > td {vertical-align: middle;padding: 10px;border-top-color: #eee}
 /*a {color: #666}*/
-a {color: #666666;}
-a:hover {color: #666666;text-decoration: none}
+a {color: #999;}
+a:hover {color: #999;text-decoration: none}
 a:active {outline: 0}
 #logo{  position: absolute;  top: 12px;  right: 15px;  font-size: 16px;  color: #333;}
 #side-item{  padding: 20px 8px;  background-color: rgba(0, 0, 0, 0.05);}
